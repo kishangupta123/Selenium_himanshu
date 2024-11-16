@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
+//This is the first code that has been modified at the github
 public class SkilliaryWebSite {
 	public static void main(String[] args) throws InterruptedException {
 		WebDriver driver=new ChromeDriver();
