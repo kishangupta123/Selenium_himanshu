@@ -7,6 +7,7 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
 
 public class Example {
+	// This will execute for once in for each project
 	@BeforeSuite
 	public void before() {
 		Reporter.log("BS executed", true);
